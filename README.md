@@ -1,6 +1,8 @@
 KityMinder Core
 ==========
 
+**源码分析见 文件夹 `analyze` **
+
 ## 简介
 
 KityMinder 是一款强大的脑图可视化/编辑工具，由百度 FEX 团队开发并维护。
